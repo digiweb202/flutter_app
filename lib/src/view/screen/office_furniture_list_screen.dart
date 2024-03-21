@@ -20,7 +20,7 @@ class OfficeFurnitureListScreen extends StatelessWidget {
               const Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  Text("Hello Sina", style: h2Style),
+                  Text("Hello Somil !!", style: h2Style),
                   Text("Buy Your favorite desk", style: h3Style),
                 ],
               ),
